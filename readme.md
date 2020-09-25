@@ -1,4 +1,9 @@
 ### display:flex のサンプル
 
-[チートシート](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)  
-[よくハマった Flexbox のバグまとめ](https://note.com/takamoso/n/n32c4e6904cf7)
+- デモ  
+  [サイトをクリック](https://setogawamasao.github.io/display-flex/index.html)
+  [go](https://setogawamasao.github.io/display-flex/index.html){:target="\_blank" rel="noopener"}
+
+- 参考  
+  [チートシート](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)  
+  [よくハマった Flexbox のバグまとめ](https://note.com/takamoso/n/n32c4e6904cf7)
