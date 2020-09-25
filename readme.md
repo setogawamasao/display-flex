@@ -1,8 +1,7 @@
 ### display:flex のサンプル
 
 - デモ  
-  [サイトをクリック](https://setogawamasao.github.io/display-flex/index.html)  
-  [go](https://setogawamasao.github.io/display-flex/index.html){:target="\_blank" rel="noopener"}
+  [GO](https://setogawamasao.github.io/display-flex/index.html)
 
 - 参考  
   [チートシート](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)  
